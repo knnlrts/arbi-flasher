@@ -1,1 +1,1 @@
-Flashloan arbitrageur on the blockchain
+Flashloan arbitrageur on the ethereum blockchain
