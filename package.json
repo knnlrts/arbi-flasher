@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/knnlrts/arbi-flasher#readme",
   "dependencies": {
+    "@studydefi/money-legos": "^2.4.1",
+    "@truffle/hdwallet-provider": "^1.2.3",
     "@uniswap/sdk": "^3.0.3",
     "dotenv": "^8.2.0",
     "web3": "^1.3.4"
